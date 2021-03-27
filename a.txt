@@ -1,5 +1,9 @@
 3
 taemin
+taemin
 minjin
+<<<<<<< HEAD
 hihihi
+=======
+>>>>>>> 43903a6fe133ae6439fcdc9ee52ade9df5942df5
 무야호!
